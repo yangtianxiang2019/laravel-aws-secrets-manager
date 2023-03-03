@@ -7,7 +7,7 @@
 
 Manage environment secrets using AWS Secrets Manager.
 
-## Installation
+## Installation 
 
 You can install the package via composer:
 
